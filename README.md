@@ -1,4 +1,4 @@
-Welcome to React Restaurant App, a Yelp-like clone.
+This is a React Restaurant App, a Yelp-like clone.
 
 This project was done completely using react.js
 
