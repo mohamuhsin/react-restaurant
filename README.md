@@ -7,4 +7,4 @@ Passing Information to Components
 Setting the State of Ravenous Components
 Interacting with the Yelp API.
 
-That's the complete project.
+That's how the complete project was done.
