@@ -1,6 +1,6 @@
 Welcome to React Restaurant, a Yelp-like clone.
 
-This project was done completely using react, redux and next.js
+This project was done completely using react.js
 
 Creating Static Components
 Passing Information to Components
