@@ -8,3 +8,5 @@ Setting the State of Ravenous Components
 Interacting with the Yelp API.
 
 That's how the complete project was done.
+
+For any inquiries feel free to contact me at moha@iventics.com
